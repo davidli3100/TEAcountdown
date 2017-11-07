@@ -2,6 +2,7 @@ if ($.cookie("theme_csspath")) {
     $('link#theme-stylesheet').attr("href", $.cookie("theme_csspath"));
 }
 
+//edited
 config = {
     countdown: {
         year: 2017,
